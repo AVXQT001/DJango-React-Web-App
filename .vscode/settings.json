@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "awbo",
+        "choreo",
+        "CMDS",
+        "runserver",
+        "startapp",
+        "startproject",
+        "venv"
+    ],
+    "python.analysis.typeCheckingMode": "basic"
+}
